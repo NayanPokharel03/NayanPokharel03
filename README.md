@@ -6,8 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:6D28D9&height=220&section=header&text=Nayan%20Raj%20Pokharel&fontSize=55&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=17" width="100%"/>
 
 
-<br/>
-
 [![Student](https://img.shields.io/badge/Status-Student-6D28D9?style=flat-square&logo=google-scholar&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Location-Bhaktapur%2C%20Nepal-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
@@ -17,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-raj-pokharel-826005423/)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pokharelnayan03@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayanpokharel)
-[![GitHub](https://img.shields.io/badge/GitHub-2E1065-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayanPokharel03)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayanPokharel03)
 
 <br/>
 
@@ -38,13 +36,16 @@
 <img src="https://img.shields.io/badge/-Data%20Analysis-6D28D9?style=flat-square" />
 <img src="https://img.shields.io/badge/-Business%20Intelligence-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/-Software%20Engineering-2E1065?style=flat-square" />
+<img src="https://img.shields.io/badge/-Creative%20Design-5B21B6?style=flat-square" />
 </div>
 
 <br/>
 
-I'm **Nayan Raj Pokharel**, a CS student based in Bhaktapur, Nepal, curious about tech and increasingly focused on **AI/ML and data analysis**. I work with Python's data stack (pandas, NumPy, scikit-learn) and tools like **Excel** and **Power BI** to explore, clean, and visualize data — alongside a software development background in **Java** and **JavaScript** that I use to build the applications data lives in.
+I'm **Nayan Raj Pokharel**, a Computer Science student based in Bhaktapur, Nepal. My interests sit at the intersection of three areas — making sense of data, building software, and shaping how things look and communicate.
 
-I've contributed to a machine-learning-based plant disease detection project and explore datasets and competitions on **Kaggle**. I enjoy the full loop — taking raw data or a rough idea, analyzing it, modeling it, and turning it into something usable, whether that's a dashboard, a trained model, or a working app.
+On the data side, I work with Python's data stack (**pandas**, **NumPy**, **scikit-learn**) and reporting tools like **Excel** and **Power BI** to explore, clean, and visualize information, and I regularly explore datasets and competitions on **Kaggle**. On the engineering side, I build with **Java** and **JavaScript**, ranging from desktop management systems to web utilities, and I've contributed to a machine-learning-based plant disease detection project. Alongside that, I work with the **Adobe Creative Cloud** suite — Photoshop, Illustrator, Premiere Pro, and Lightroom — for visual design and content editing, and I set up and manage sites with **WordPress**.
+
+I like closing the loop between these skills: taking raw data or a rough idea, analyzing or designing it, and turning it into something finished — a dashboard, a trained model, a working app, or a piece of visual content.
 
 ```yaml
 Open To:
@@ -59,33 +60,8 @@ Open To:
 
 ## 🛠️ Tech Stack
 
-**AI / ML & Data Analysis**
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,java,js,c,html,css,react,flutter,nodejs,mysql,sqlite,git,github,vscode,idea,pycharm,windows,wordpress,ps,ai,pr&perline=8)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-
-**Business Intelligence & Reporting**
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark" />
-
-**Frontend & App Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter&theme=dark" />
-
-**Backend, Databases & Tooling**
-
-<img src="https://skillicons.dev/icons?i=java,nodejs,mysql,sqlite,git,github,vscode&theme=dark" />
-
----
 
 ## 🧩 Core Skills
 
@@ -96,6 +72,8 @@ Open To:
 | **Data Analysis** | ⭐⭐⭐⭐ | Python (pandas, NumPy), Excel, exploratory data analysis |
 | **Machine Learning** | ⭐⭐⭐ | Model-driven projects (plant disease detection), scikit-learn, Kaggle |
 | **Business Intelligence** | ⭐⭐⭐ | Power BI dashboards, Excel reporting and visualization |
+| **Creative & Design** | ⭐⭐⭐ | Photoshop, Illustrator, Premiere Pro, and Lightroom for visual content |
+| **Web Publishing** | ⭐⭐⭐ | WordPress site setup, theming, and content management |
 | **Java Development** | ⭐⭐⭐⭐ | Desktop applications, Swing UI, OOP-based system design |
 | **JavaScript** | ⭐⭐⭐⭐ | Interactive web apps, API integration, DOM manipulation |
 | **Version Control** | ⭐⭐⭐⭐ | Git & GitHub workflows for personal, academic, and collaborative projects |
@@ -107,7 +85,7 @@ Open To:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Plant Disease Detection <i>(Contributor)</i></b></summary>
+<summary><b>🔹 Plant Disease Detection <i>(Contributor: Model Training)</i></b></summary>
 <br/>
 
 A machine-learning-based system to identify plant diseases from images, with a Flutter mobile front end and a trained model behind it.
@@ -118,6 +96,7 @@ A machine-learning-based system to identify plant diseases from images, with a F
 | **Category** | AI/ML · Mobile Application |
 | **Role** | Contributor — worked alongside the project owner |
 | **Status** | Public repository |
+| **Kaggle Notebook** | [Kaggle](https://www.kaggle.com/code/nayanpokharel/plant-disease-v2) |
 | **Repository** | [github.com/suj4n/Plant-Disease](https://github.com/suj4n/Plant-Disease) |
 
 Contributed to a plant disease classification project combining a trained ML model with a Flutter-based mobile interface, so users can identify plant diseases directly from photos.
@@ -203,46 +182,25 @@ A set of practical Java exercises covering core language concepts and problem-so
 ### 🎓 Student — Computer Science / IT
 **Currently Enrolled**
 
-Working through coursework and self-directed projects, with a growing focus on data and machine learning alongside core software development.
+Working through coursework and self-directed projects, with a growing focus on data and machine learning alongside core software development and design.
 
 - Completed semester practicals and coursework in Java
 - Analyzed and visualized datasets using Python, Excel, and Power BI
 - Contributed to an external ML/mobile project (plant disease detection)
 - Built independent projects to apply classroom concepts (attendance systems, weather apps, desktop GUIs)
+- Designed and edited visual content using Adobe Photoshop, Illustrator, Premiere Pro, and Lightroom
 - Actively maintaining and iterating on personal projects on GitHub and Kaggle
 
-`Python` `Java` `JavaScript` `Power BI` `Excel` `Git`
+`Python` `Java` `JavaScript` `Power BI` `Excel` `Adobe CC` `Git`
 
 <br/>
 
-> *Add your internship or work experience here once available — this section is ready to be filled in.*
+
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎓 Academic Progress | Currently completing coursework, including 7th semester Java practicals |
-| 🤝 Open Source Contributor | Contributed to the Plant Disease detection project (suj4n/Plant-Disease) |
-| 📊 Kaggle Explorer | Active profile on Kaggle exploring datasets and ML |
-| 🌟 Active Builder | 5+ public repositories spanning Java, JavaScript, and ML projects |
-
-</div>
-
----
-
-## 📜 Certifications
-
-> *No certifications listed on GitHub yet — add yours below and they'll render as badges.*
-
-**Example format (replace with your real certifications):**
-
-[![Certification Name](https://img.shields.io/badge/Provider-Certification%20Name-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-
----
 
 ## 💻 Coding & Data Profiles
 
@@ -274,6 +232,7 @@ Working through coursework and self-directed projects, with a growing focus on d
 ---
 
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -284,15 +243,7 @@ Working through coursework and self-directed projects, with a growing focus on d
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NayanPokharel03/NayanPokharel03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -311,6 +262,7 @@ Building:
 Exploring:
   - AI / ML and data science
   - Full stack development
+  - Visual design and content editing with Adobe CC
   - Open source contribution workflows
 
 Open To:
