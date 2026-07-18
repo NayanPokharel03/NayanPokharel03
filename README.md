@@ -184,12 +184,6 @@ A set of practical Java exercises covering core language concepts and problem-so
 
 Working through coursework and self-directed projects, with a growing focus on data and machine learning alongside core software development and design.
 
-- Completed semester practicals and coursework in Java
-- Analyzed and visualized datasets using Python, Excel, and Power BI
-- Contributed to an external ML/mobile project (plant disease detection)
-- Built independent projects to apply classroom concepts (attendance systems, weather apps, desktop GUIs)
-- Designed and edited visual content using Adobe Photoshop, Illustrator, Premiere Pro, and Lightroom
-- Actively maintaining and iterating on personal projects on GitHub and Kaggle
 
 `Python` `Java` `JavaScript` `Power BI` `Excel` `Adobe CC` `Git`
 
@@ -202,19 +196,6 @@ Working through coursework and self-directed projects, with a growing focus on d
 
 
 
-## 💻 Coding & Data Profiles
-
-<div align="center">
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayanpokharel)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NayanPokharel03)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/NayanPokharel03)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2E1065?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/NayanPokharel03)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/NayanPokharel03)
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -245,33 +226,6 @@ Working through coursework and self-directed projects, with a growing focus on d
 
 
 
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Machine Learning Fundamentals & Kaggle Competitions
-  - Data Analysis with Python (pandas, NumPy)
-  - Power BI & Advanced Excel for Reporting
-  - Advanced Java & Object-Oriented Design
-
-Building:
-  - Data analysis and dashboard projects
-  - Personal utility and management-system projects
-  - A stronger, more polished GitHub portfolio
-
-Exploring:
-  - AI / ML and data science
-  - Full stack development
-  - Visual design and content editing with Adobe CC
-  - Open source contribution workflows
-
-Open To:
-  - AI / ML & Data Analyst Internships
-  - Internships & Junior Developer Roles
-  - Collaborative Student Projects
-```
-
----
 
 ## 📫 Connect With Me
 
