@@ -3,9 +3,8 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:6D28D9&height=220&section=header&text=Nayan%20Raj%20Pokharel&fontSize=55&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20and%20JavaScript%20Engineer%20%7C%20Curious%20About%20Tech&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:6D28D9&height=220&section=header&text=Nayan%20Raj%20Pokharel&fontSize=55&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Just+a+Guy+Curious+About+Tech;Java+and+JavaScript+Developer;Building+Practical%2C+Real-World+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
@@ -15,8 +14,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NayanPokharel03)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-raj-pokharel-826005423/)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pokharelnayan03@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayanpokharel)
 [![GitHub](https://img.shields.io/badge/GitHub-2E1065-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayanPokharel03)
 
 <br/>
@@ -34,22 +34,23 @@
 ## 🧠 About Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/-Software%20Engineering-2E1065?style=flat-square" />
 <img src="https://img.shields.io/badge/-AI%2FML%20Engineering-4C1D95?style=flat-square" />
-<img src="https://img.shields.io/badge/-Full%20Stack%20Development-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/-Product%20Engineering-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/-Data%20Analysis-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/-Business%20Intelligence-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/-Software%20Engineering-2E1065?style=flat-square" />
 </div>
 
 <br/>
 
-I'm **Nayan Raj Pokharel**, a developer based in Bhaktapur, Nepal, curious about tech and focused on building practical, real-world applications. My work spans **Java** and **JavaScript**, with hands-on experience building management systems, utility apps, and academic projects that solve everyday problems.
+I'm **Nayan Raj Pokharel**, a CS student based in Bhaktapur, Nepal, curious about tech and increasingly focused on **AI/ML and data analysis**. I work with Python's data stack (pandas, NumPy, scikit-learn) and tools like **Excel** and **Power BI** to explore, clean, and visualize data — alongside a software development background in **Java** and **JavaScript** that I use to build the applications data lives in.
 
-I enjoy the process of taking an idea — a system to track attendance, a way to check the weather, a tool to manage student records — and building it end to end, from logic to interface. Still early in my journey, with a strong focus on learning solid engineering fundamentals and shipping things that work.
+I've contributed to a machine-learning-based plant disease detection project and explore datasets and competitions on **Kaggle**. I enjoy the full loop — taking raw data or a rough idea, analyzing it, modeling it, and turning it into something usable, whether that's a dashboard, a trained model, or a working app.
 
 ```yaml
 Open To:
+  - AI / ML & Data Analyst Internships
   - Software Development Internships
-  - Full Stack / Backend Projects
+  - Data-Driven Full Stack Projects
   - Open Source Contributions
   - Learning Collaborations
 ```
@@ -58,21 +59,31 @@ Open To:
 
 ## 🛠️ Tech Stack
 
+**AI / ML & Data Analysis**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+
+**Business Intelligence & Reporting**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,c,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark" />
 
-**Frontend**
+**Frontend & App Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter&theme=dark" />
 
-**Backend & Databases**
+**Backend, Databases & Tooling**
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,mysql,sqlite&theme=dark" />
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,mysql,sqlite,git,github,vscode&theme=dark" />
 
 ---
 
@@ -82,17 +93,36 @@ Open To:
 
 | Domain | Focus | Details |
 |---|:---:|---|
+| **Data Analysis** | ⭐⭐⭐⭐ | Python (pandas, NumPy), Excel, exploratory data analysis |
+| **Machine Learning** | ⭐⭐⭐ | Model-driven projects (plant disease detection), scikit-learn, Kaggle |
+| **Business Intelligence** | ⭐⭐⭐ | Power BI dashboards, Excel reporting and visualization |
 | **Java Development** | ⭐⭐⭐⭐ | Desktop applications, Swing UI, OOP-based system design |
 | **JavaScript** | ⭐⭐⭐⭐ | Interactive web apps, API integration, DOM manipulation |
-| **Database Design** | ⭐⭐⭐ | Relational schemas for management systems |
-| **Version Control** | ⭐⭐⭐⭐ | Git & GitHub workflows for personal and academic projects |
-| **Problem Solving** | ⭐⭐⭐⭐ | Practical coursework and practicals across semesters |
+| **Version Control** | ⭐⭐⭐⭐ | Git & GitHub workflows for personal, academic, and collaborative projects |
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 Plant Disease Detection <i>(Contributor)</i></b></summary>
+<br/>
+
+A machine-learning-based system to identify plant diseases from images, with a Flutter mobile front end and a trained model behind it.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Jupyter Notebook, Python, Dart (Flutter), C++ |
+| **Category** | AI/ML · Mobile Application |
+| **Role** | Contributor — worked alongside the project owner |
+| **Status** | Public repository |
+| **Repository** | [github.com/suj4n/Plant-Disease](https://github.com/suj4n/Plant-Disease) |
+
+Contributed to a plant disease classification project combining a trained ML model with a Flutter-based mobile interface, so users can identify plant diseases directly from photos.
+
+</details>
 
 <details>
 <summary><b>🔹 Student Attendance Management System</b></summary>
@@ -173,13 +203,15 @@ A set of practical Java exercises covering core language concepts and problem-so
 ### 🎓 Student — Computer Science / IT
 **Currently Enrolled**
 
-Working through coursework and self-directed projects while building practical development skills.
+Working through coursework and self-directed projects, with a growing focus on data and machine learning alongside core software development.
 
 - Completed semester practicals and coursework in Java
+- Analyzed and visualized datasets using Python, Excel, and Power BI
+- Contributed to an external ML/mobile project (plant disease detection)
 - Built independent projects to apply classroom concepts (attendance systems, weather apps, desktop GUIs)
-- Actively maintaining and iterating on personal projects on GitHub
+- Actively maintaining and iterating on personal projects on GitHub and Kaggle
 
-`Java` `JavaScript` `Git` `GitHub`
+`Python` `Java` `JavaScript` `Power BI` `Excel` `Git`
 
 <br/>
 
@@ -194,8 +226,9 @@ Working through coursework and self-directed projects while building practical d
 | Recognition | Details |
 |---|---|
 | 🎓 Academic Progress | Currently completing coursework, including 7th semester Java practicals |
-| 🌟 Active Builder | 5 public repositories spanning Java and JavaScript projects |
-| 🏆 [Add Achievement] | [Add details — hackathons, awards, recognitions] |
+| 🤝 Open Source Contributor | Contributed to the Plant Disease detection project (suj4n/Plant-Disease) |
+| 📊 Kaggle Explorer | Active profile on Kaggle exploring datasets and ML |
+| 🌟 Active Builder | 5+ public repositories spanning Java, JavaScript, and ML projects |
 
 </div>
 
@@ -211,10 +244,11 @@ Working through coursework and self-directed projects while building practical d
 
 ---
 
-## 💻 Coding Profiles
+## 💻 Coding & Data Profiles
 
 <div align="center">
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayanpokharel)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NayanPokharel03)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/NayanPokharel03)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2E1065?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/NayanPokharel03)
@@ -239,15 +273,6 @@ Working through coursework and self-directed projects while building practical d
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NayanPokharel03&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -273,19 +298,23 @@ Working through coursework and self-directed projects while building practical d
 
 ```yaml
 Learning:
+  - Machine Learning Fundamentals & Kaggle Competitions
+  - Data Analysis with Python (pandas, NumPy)
+  - Power BI & Advanced Excel for Reporting
   - Advanced Java & Object-Oriented Design
-  - Modern JavaScript & Frontend Frameworks
-  - Database Design & Backend Fundamentals
 
 Building:
+  - Data analysis and dashboard projects
   - Personal utility and management-system projects
   - A stronger, more polished GitHub portfolio
 
 Exploring:
+  - AI / ML and data science
   - Full stack development
   - Open source contribution workflows
 
 Open To:
+  - AI / ML & Data Analyst Internships
   - Internships & Junior Developer Roles
   - Collaborative Student Projects
 ```
@@ -296,10 +325,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NayanPokharel03)
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pokharelnayan03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-raj-pokharel-826005423/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayanPokharel03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayanpokharel)
 
 </div>
 
