@@ -3,27 +3,27 @@
                                                                    
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:6D28D9&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:6D28D9&height=220&section=header&text=Nayan%20Raj%20Pokharel&fontSize=55&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%26%20JavaScript%20Engineer%20%7C%20Curious%20About%20Tech&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Scalable+Systems+%26+Intelligent+Products;Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer+%7C+Product+Engineering+Mindset;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Just+a+Guy+Curious+About+Tech;Java+%26+JavaScript+Developer;Building+Practical%2C+Real-World+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-[![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=google-scholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Location-Your%20City%2C%20Country-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Student](https://img.shields.io/badge/Status-Student-6D28D9?style=flat-square&logo=google-scholar&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Bhaktapur%2C%20Nepal-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NayanPokharel03)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E1065-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-2E1065-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayanPokharel03)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6D28D9&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/yourusername?color=6D28D9&style=flat-square&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/yourusername?color=6D28D9&style=flat-square&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=NayanPokharel03&color=6D28D9&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/NayanPokharel03?color=6D28D9&style=flat-square&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/NayanPokharel03?color=6D28D9&style=flat-square&label=STARS)
 
 </div>
 
@@ -42,17 +42,16 @@
 
 <br/>
 
-I'm a **Software Engineer** specializing in building scalable distributed systems, production-grade AI/ML pipelines, and end-to-end full stack products. My work sits at the intersection of **systems engineering** and **applied machine learning**, with a strong focus on performance, reliability, and clean architecture.
+I'm **Nayan Raj Pokharel**, a developer based in Bhaktapur, Nepal, curious about tech and focused on building practical, real-world applications. My work spans **Java** and **JavaScript**, with hands-on experience building management systems, utility apps, and academic projects that solve everyday problems.
 
-I approach engineering with a **product mindset** — writing code that is not only technically sound but also aligned with business impact and user experience. Comfortable owning a feature from system design through deployment and monitoring.
+I enjoy the process of taking an idea — a system to track attendance, a way to check the weather, a tool to manage student records — and building it end to end, from logic to interface. Still early in my journey, with a strong focus on learning solid engineering fundamentals and shipping things that work.
 
 ```yaml
 Open To:
-  - Software Engineering Roles (Backend / Full Stack)
-  - AI / ML Engineering Roles
-  - Research Collaborations
+  - Software Development Internships
+  - Full Stack / Backend Projects
   - Open Source Contributions
-  - Freelance & Contract Engineering Work
+  - Learning Collaborations
 ```
 
 ---
@@ -61,34 +60,33 @@ Open To:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,c,html,css&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,mysql,sqlite&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+**Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🧩 Core Skills
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Focus | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| **Deep Learning** | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers, PyTorch, TensorFlow |
-| **NLP / LLMs** | ⭐⭐⭐⭐ | Fine-tuning, RAG pipelines, prompt engineering, embeddings |
-| **MLOps** | ⭐⭐⭐⭐ | Model serving, CI/CD for ML, monitoring, versioning (MLflow, DVC) |
-| **Computer Vision** | ⭐⭐⭐⭐ | Object detection, segmentation, OpenCV pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines, Spark, Airflow, data warehousing |
+| **Java Development** | ⭐⭐⭐⭐ | Desktop applications, Swing UI, OOP-based system design |
+| **JavaScript** | ⭐⭐⭐⭐ | Interactive web apps, API integration, DOM manipulation |
+| **Database Design** | ⭐⭐⭐ | Relational schemas for management systems |
+| **Version Control** | ⭐⭐⭐⭐ | Git & GitHub workflows for personal and academic projects |
+| **Problem Solving** | ⭐⭐⭐⭐ | Practical coursework and practicals across semesters |
 
 </div>
 
@@ -97,59 +95,74 @@ Open To:
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — Distributed Real-Time Analytics Platform</b></summary>
+<summary><b>🔹 Student Attendance Management System</b></summary>
 <br/>
 
-A high-throughput, real-time analytics engine designed to process and visualize millions of events per day with sub-second latency.
+A system built to manage and track student attendance records.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Go, Kafka, PostgreSQL, Redis, React, Docker, Kubernetes |
-| **Scale** | 10M+ events/day, horizontally scalable microservices |
-| **Performance** | p99 latency under 150ms, 99.9% uptime |
-| **Security** | OAuth2, RBAC, encrypted data in transit and at rest |
-| **Impact** | Reduced reporting latency by 80%, adopted by 3 internal teams |
-| **Repository** | [github.com/yourusername/project-one](https://github.com/yourusername/project-one) |
+| **Stack** | JavaScript |
+| **Scale** | Single-institution attendance tracking |
+| **Category** | Web-based management tool |
+| **Status** | Public repository |
+| **Repository** | [github.com/NayanPokharel03/Student-Attendance-Management-system](https://github.com/NayanPokharel03/Student-Attendance-Management-system) |
 
-Architected as a set of decoupled microservices communicating over Kafka, with a Go-based ingestion layer, Redis caching for hot paths, and a React dashboard for real-time visualization. Deployed on Kubernetes with autoscaling and full observability via Prometheus and Grafana.
+Built to simplify recording and managing student attendance, replacing manual tracking with a structured digital workflow.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Two — AI-Powered Document Intelligence System</b></summary>
+<summary><b>🔹 Mausam — Weather App (Version 3)</b></summary>
 <br/>
 
-An end-to-end RAG-based system for extracting, indexing, and querying information across large unstructured document sets.
+A weather application built to fetch and display current weather data.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python, FastAPI, LangChain, PostgreSQL + pgvector, Next.js |
-| **Scale** | 500K+ indexed documents, multi-tenant architecture |
-| **Performance** | Sub-2s query response with hybrid search |
-| **Security** | Tenant isolation, JWT auth, PII redaction pipeline |
-| **Impact** | Cut manual document review time by 65% |
-| **Repository** | [github.com/yourusername/project-two](https://github.com/yourusername/project-two) |
+| **Stack** | JavaScript |
+| **Category** | Utility / Web App |
+| **Version** | v3 — iterated and improved over prior versions |
+| **Status** | Public repository |
+| **Repository** | [github.com/NayanPokharel03/mausam---app--VERSION-3](https://github.com/NayanPokharel03/mausam---app--VERSION-3) |
 
-Built a retrieval-augmented generation pipeline combining dense vector search with keyword filtering, served through a FastAPI backend and consumed by a Next.js frontend, with a strong emphasis on accuracy and traceable citations.
+"Mausam" (weather, in Nepali) is a weather-checking app, refined across multiple versions to improve functionality and UI.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Three — E-Commerce Microservices Backend</b></summary>
+<summary><b>🔹 SWING — Student Management System</b></summary>
 <br/>
 
-A production-style microservices backend powering a full e-commerce platform.
+A Java desktop application for managing student records, built using Swing.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Node.js, Express, MongoDB, Redis, Docker, AWS |
-| **Scale** | Handles 50K+ concurrent users in load testing |
-| **Performance** | Optimized queries, caching layer reducing DB load by 40% |
-| **Security** | Rate limiting, input sanitization, secure payment integration |
-| **Impact** | Reference architecture reused across 2 client projects |
-| **Repository** | [github.com/yourusername/project-three](https://github.com/yourusername/project-three) |
+| **Stack** | Java (Swing) |
+| **Category** | Desktop Application |
+| **Purpose** | Student data management |
+| **Status** | Public repository |
+| **Repository** | [github.com/NayanPokharel03/SWING](https://github.com/NayanPokharel03/SWING) |
 
-Designed with service boundaries around catalog, orders, payments, and users, each independently deployable and communicating via REST and message queues, deployed on AWS ECS with CI/CD via GitHub Actions.
+A GUI-based system for handling student records, built as a practical exercise in Java desktop application development.
+
+</details>
+
+<details>
+<summary><b>🔹 Java Practical</b></summary>
+<br/>
+
+A collection of Java programs written for 7th semester coursework.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Java |
+| **Category** | Academic / Coursework |
+| **Purpose** | Practical problem-solving and language fundamentals |
+| **Status** | Public repository |
+| **Repository** | [github.com/NayanPokharel03/Java-Practical](https://github.com/NayanPokharel03/Java-Practical) |
+
+A set of practical Java exercises covering core language concepts and problem-solving, completed as part of academic coursework.
 
 </details>
 
@@ -157,30 +170,20 @@ Designed with service boundaries around catalog, orders, payments, and users, ea
 
 ## 💼 Experience
 
-### Software Engineer — Company Name
-**Month Year – Present**
+### 🎓 Student — Computer Science / IT
+**Currently Enrolled**
 
-Contributing to the design and development of scalable backend services and AI-driven features in a production environment.
+Working through coursework and self-directed projects while building practical development skills.
 
-- Designed and implemented microservices handling high-throughput production traffic
-- Built and deployed machine learning models into production inference pipelines
-- Collaborated cross-functionally with product and design to ship customer-facing features
-- Improved system performance and reduced infrastructure costs through optimization
+- Completed semester practicals and coursework in Java
+- Built independent projects to apply classroom concepts (attendance systems, weather apps, desktop GUIs)
+- Actively maintaining and iterating on personal projects on GitHub
 
-`Python` `Go` `AWS` `Kubernetes` `PostgreSQL` `Machine Learning`
+`Java` `JavaScript` `Git` `GitHub`
 
 <br/>
 
-### Software Engineering Intern — Company Name
-**Month Year – Month Year**
-
-Worked on backend infrastructure and internal tooling to support engineering velocity.
-
-- Developed internal APIs consumed by multiple product teams
-- Automated CI/CD pipelines, reducing deployment time significantly
-- Contributed to test coverage and documentation improvements
-
-`Node.js` `Docker` `CI/CD` `REST APIs`
+> *Add your internship or work experience here once available — this section is ready to be filled in.*
 
 ---
 
@@ -190,10 +193,9 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 | Recognition | Details |
 |---|---|
-| 🥇 Hackathon Winner | Won first place at [Event Name] among 200+ teams |
-| 📄 Research Publication | Co-authored paper on [Topic] at [Conference/Journal] |
-| 🌟 Open Source Contributor | Merged PRs into [Notable Project] |
-| 🎓 Academic Excellence | Ranked in top 5% of graduating class |
+| 🎓 Academic Progress | Currently completing coursework, including 7th semester Java practicals |
+| 🌟 Active Builder | 5 public repositories spanning Java and JavaScript projects |
+| 🏆 [Add Achievement] | [Add details — hackathons, awards, recognitions] |
 
 </div>
 
@@ -201,23 +203,11 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 ## 📜 Certifications
 
-**AWS**
+> *No certifications listed on GitHub yet — add yours below and they'll render as badges.*
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified%20Developer-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+**Example format (replace with your real certifications):**
 
-**Oracle**
-
-[![Oracle Certified](https://img.shields.io/badge/Oracle-Java%20Certified-4C1D95?style=for-the-badge&logo=oracle&logoColor=white)](#)
-
-**NPTEL**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-
-**Cisco**
-
-[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-2E1065?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Certification Name](https://img.shields.io/badge/Provider-Certification%20Name-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 ---
 
@@ -225,10 +215,10 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2E1065?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourusername)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/NayanPokharel03)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/NayanPokharel03)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2E1065?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/NayanPokharel03)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/NayanPokharel03)
 
 </div>
 
@@ -238,12 +228,12 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=A78BFA&text_color=E9D5FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D0221&stroke=A78BFA&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NayanPokharel03&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=A78BFA&text_color=E9D5FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NayanPokharel03&theme=radical&hide_border=true&background=0D0221&stroke=A78BFA&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanPokharel03&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" width="50%"/>
 
 </div>
 
@@ -253,7 +243,7 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=NayanPokharel03&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -263,7 +253,7 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&bg_color=0D0221&color=A78BFA&line=7C3AED&point=E9D5FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NayanPokharel03&theme=redical&bg_color=0D0221&color=A78BFA&line=7C3AED&point=E9D5FF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -273,7 +263,7 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NayanPokharel03/NayanPokharel03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -283,21 +273,21 @@ Worked on backend infrastructure and internal tooling to support engineering vel
 
 ```yaml
 Learning:
-  - Advanced Distributed Systems Design
-  - LLM Fine-Tuning & Agentic Architectures
-  - Cloud-Native Infrastructure at Scale
+  - Advanced Java & Object-Oriented Design
+  - Modern JavaScript & Frontend Frameworks
+  - Database Design & Backend Fundamentals
 
 Building:
-  - AI-powered developer productivity tools
-  - Open source contributions to ML tooling
+  - Personal utility and management-system projects
+  - A stronger, more polished GitHub portfolio
 
 Exploring:
-  - Retrieval-Augmented Generation systems
-  - Edge AI deployment strategies
+  - Full stack development
+  - Open source contribution workflows
 
 Open To:
-  - Full-Time Software / AI Engineering Roles
-  - Impactful Collaborations & Research
+  - Internships & Junior Developer Roles
+  - Collaborative Student Projects
 ```
 
 ---
@@ -307,8 +297,8 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NayanPokharel03)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NayanPokharel03)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
@@ -317,7 +307,7 @@ Open To:
 
 <div align="center">
 
-*"Great software is built at the intersection of engineering discipline and product thinking."*
+*"Just a guy curious about tech — building, breaking, and learning one project at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2E1065,100:0F0524&height=150&section=footer" width="100%"/>
 
