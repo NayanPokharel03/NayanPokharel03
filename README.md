@@ -196,33 +196,6 @@ Working through coursework and self-directed projects, with a growing focus on d
 
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NayanPokharel03&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=A78BFA&text_color=E9D5FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NayanPokharel03&theme=radical&hide_border=true&background=0D0221&stroke=A78BFA&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanPokharel03&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E9D5FF" width="50%"/>
-
-</div>
-
----
-
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NayanPokharel03&theme=redical&bg_color=0D0221&color=A78BFA&line=7C3AED&point=E9D5FF&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 
 
 
