@@ -214,7 +214,7 @@ Working through coursework and self-directed projects, with a growing focus on d
 
 <div align="center">
 
-*"Just a guy curious about tech — building, breaking, and learning one project at a time."*
+*"Building, breaking, and learning one project at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2E1065,100:0F0524&height=150&section=footer" width="100%"/>
 
